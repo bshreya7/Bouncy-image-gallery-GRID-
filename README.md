@@ -1,1 +1,1 @@
-# Bouncy-image-gallery-GRID-
+# Bouncy-image-gallery-GRID
